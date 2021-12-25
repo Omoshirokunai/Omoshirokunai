@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Omoshirokunai
 
-- 👀 I’m interested in Python:snake:, data, web scraping and some machine learning 
+- 👀 I’m interested in data, graphic design, web development,product mangement, web scraping and some machine learning 
 - 🌱 I’m currently building experience in Python for data science and machine learning with tensorflow/keras
 - 📫 Feel free to reach out to me at normanbellenger@protonmail.com or on twitter [@muhsin_691](https://twitter.com/muhsin_691)
 - 👨🏾 My [Linkedin](https://www.linkedin.com/in/muhsin-h/) is a mixed bag but I'll definitely see messages I get
