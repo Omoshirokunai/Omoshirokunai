@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Omoshirokunai
 
 - 👀 I’m interested in data, graphic design, web development,product mangement, web scraping and some machine learning.
-- :point_right: [My Portfolio website](https://muhsin-h.herokuapp.com/) and [resume](https://muhsin-h.herokuapp.com/resume) 
+- :point_right: [My Portfolio website](https://muhsin-h.herokuapp.com/) and [Resume](https://muhsin-h.herokuapp.com/resume) 
 - 🌱 I’m currently building experience in Python for data science and machine learning with tensorflow/keras
 - 📫 Feel free to reach out to me at normanbellenger@protonmail.com
 - 🤝 All my repos are under the GNU+ licence feel to improve/rework on any of them.
