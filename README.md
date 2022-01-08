@@ -4,7 +4,7 @@
 - :point_right: [My Portfolio website](https://muhsin-h.herokuapp.com/) and [Resume](https://muhsin-h.herokuapp.com/resume) 
 - 🌱 I’m currently building experience in Python for data science and machine learning with tensorflow/keras
 - 📫 Feel free to reach out to me at normanbellenger@protonmail.com
-- 🤝 All my repos are under the GNU+ licence feel to improve/rework on any of them.
+- 🤝 Feel to improve/rework any repo available.
 
 ## 🏆 My Github Stats
 
