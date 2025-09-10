@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Omoshirokunai
 
-- 👀 I’m interested in data, robotics, machine learning and green energy.
-- 📫 Feel free to reach out to me at wrenharold0@proton.me
+- 👀 Working with language models, data processing, robotics, machine learning and green energy.
+- 📫 Feel free to reach out to me at m.hameed@firl.nl
 
